@@ -50,6 +50,7 @@ namespace lab4
             bool classOk = int.TryParse(Console.ReadLine(), out int classNum);
             Console.Write("Starting luck (0.0-10.0): ");
             bool luckOk = double.TryParse(Console.ReadLine(), out double luck);
+
             Console.WriteLine($"{charName} the Class-{classNum} adventurer enters the dungeon. Luck: {luck}");
         }
     }
