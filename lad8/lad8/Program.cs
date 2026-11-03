@@ -1,4 +1,15 @@
-﻿using System.Diagnostics;
+/*
+* Student ID :
+* Name       :
+* Section    :
+* No.        :
+* Student ID : 1690703903
+* Name       : Lab08
+* Section    : 129D
+* No.        :na
+* Course     : GI113 Computer Programming (GI)
+*/
+using System.Diagnostics;
 
 namespace lad8
 {
